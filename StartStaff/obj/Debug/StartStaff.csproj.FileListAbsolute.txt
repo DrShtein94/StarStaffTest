@@ -1,0 +1,6 @@
+D:\Projects\StartStaff\StartStaff\bin\Debug\StartStaff.exe.config
+D:\Projects\StartStaff\StartStaff\bin\Debug\StartStaff.exe
+D:\Projects\StartStaff\StartStaff\bin\Debug\StartStaff.pdb
+D:\Projects\StartStaff\StartStaff\obj\Debug\StartStaff.csprojResolveAssemblyReference.cache
+D:\Projects\StartStaff\StartStaff\obj\Debug\StartStaff.exe
+D:\Projects\StartStaff\StartStaff\obj\Debug\StartStaff.pdb

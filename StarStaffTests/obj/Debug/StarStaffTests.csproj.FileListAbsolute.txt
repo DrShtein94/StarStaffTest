@@ -1,0 +1,8 @@
+D:\Projects\StartStaff\StarStaffTests\bin\Debug\StarStaffTests.dll
+D:\Projects\StartStaff\StarStaffTests\bin\Debug\StarStaffTests.pdb
+D:\Projects\StartStaff\StarStaffTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\StartStaff\StarStaffTests\obj\Debug\StarStaffTests.csprojResolveAssemblyReference.cache
+D:\Projects\StartStaff\StarStaffTests\obj\Debug\StarStaffTests.dll
+D:\Projects\StartStaff\StarStaffTests\obj\Debug\StarStaffTests.pdb
+D:\Projects\StartStaff\StarStaffTests\bin\Debug\StartStaff.exe
+D:\Projects\StartStaff\StarStaffTests\bin\Debug\StartStaff.pdb
